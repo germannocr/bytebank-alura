@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bytebank-Alura"
+    }
+  },
+  "defaultProject": "bytebank-Alura",
+  "cli": {
+    "analytics": false
+  }
 }
